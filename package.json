@@ -1,0 +1,27 @@
+{
+    "author": "qmoore360@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "seconds-watchface",
+    "pebble": {
+        "displayName": "Seconds watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "0caa21e2-b945-4687-839d-bed4863f6273",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
